@@ -1,0 +1,82 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+# END WordPress
+
+
+RedirectMatch 301 /free-course-5steps http://biznesfabrika.ru
+RedirectMatch 301 /vakansii http://biznesfabrika.ru/vacancies
+RedirectMatch 301 /franchazing http://biznesfabrika.ru
+RedirectMatch 301 /bizness-in-lipetsk http://biznesfabrika.ru
+RedirectMatch 301 /rsschannel/video http://biznesfabrika.ru/category/video
+RedirectMatch 301 /3knigi http://biznesfabrika.ru
+RedirectMatch 301 /uslugi http://biznesfabrika.ru/services
+RedirectMatch 301 /about	http://biznesfabrika.ru
+RedirectMatch 301 /catalog_articles	http://biznesfabrika.ru/
+RedirectMatch 301 /franchazing/franchaizing-ot-do-ya.html	http://biznesfabrika.ru/franchazing/franchaizing-ot-do-ya.html
+RedirectMatch 301 /book-okna	http://biznesfabrika.ru/
+RedirectMatch 301 /kak-ekonomit-na-ip-telefonii	http://biznesfabrika.ru/
+RedirectMatch 301 /upravlenie-biznesom-4-tipa-mened	http://biznesfabrika.ru/
+RedirectMatch 301 /franchaizing-ot-do-ya	http://biznesfabrika.ru/
+RedirectMatch 301 /articles_sitemap	http://biznesfabrika.ru/
+RedirectMatch 301 /otzyvy	http://biznesfabrika.ru/
+RedirectMatch 301 /book-hacker	http://biznesfabrika.ru/
+RedirectMatch 301 /seminar-uvolnenie-sobst	http://biznesfabrika.ru/
+RedirectMatch 301 /coaching-AM	http://biznesfabrika.ru/
+RedirectMatch 301 /book-franshizing	http://biznesfabrika.ru/
+RedirectMatch 301 /book-money	http://biznesfabrika.ru/
+RedirectMatch 301 /bystroe-razvitie-biznesa	http://biznesfabrika.ru/
+RedirectMatch 301 /roznichnyi-biznes-retail	http://biznesfabrika.ru/
+RedirectMatch 301 /trening-kholodnye-zvonki-ot-do-ya	http://biznesfabrika.ru/
+RedirectMatch 301 /udvoenie	http://biznesfabrika.ru/
+RedirectMatch 301 /biznes-autopilot	http://biznesfabrika.ru/
+RedirectMatch 301 /narugnieotkosi-box	http://biznesfabrika.ru/
+RedirectMatch 301 /personal-svobodnybiznes	http://biznesfabrika.ru/
+RedirectMatch 301 /user/password	http://biznesfabrika.ru/
+RedirectMatch 301 /biznnes-na-avtopilote	http://biznesfabrika.ru/
+RedirectMatch 301 /free_hr	http://biznesfabrika.ru/
+RedirectMatch 301 /free-bisnesfabrika-sekrety-franchazinga	http://biznesfabrika.ru/
+RedirectMatch 301 /free-tm	http://biznesfabrika.ru/
+RedirectMatch 301 /sos-krupnye-seti-pogloshchayut-m	http://biznesfabrika.ru/
+RedirectMatch 301 /personality-work-consalting	http://biznesfabrika.ru/
+RedirectMatch 301 /blog/merkulov	http://biznesfabrika.ru/
+RedirectMatch 301 /catalog	http://biznesfabrika.ru/
+RedirectMatch 301 /free-course-5stepsvideokurs-business-poryadok	http://biznesfabrika.ru/
+RedirectMatch 301 /free-svoboda-v-biznese?p=problemy-s-rukovoditelem	http://biznesfabrika.ru/
+RedirectMatch 301 /freecourse_polevoe_upravlenye	http://biznesfabrika.ru/
+RedirectMatch 301 /ishchem-umnogo-rukovoditelya-it-proektov-lipetsk	http://biznesfabrika.ru/
+RedirectMatch 301 /js/online/files/online.html	http://biznesfabrika.ru/
+RedirectMatch 301 /nachalo-novogo-biznesa	http://biznesfabrika.ru/
+RedirectMatch 301 /obuchenie-personala-kak-peredavat-znaniya	http://biznesfabrika.ru/
+RedirectMatch 301 /strategiya-plan	http://biznesfabrika.ru/
+RedirectMatch 301 /upravlenie-biznesom-4-tipa-mened	http://biznesfabrika.ru/
+RedirectMatch 301 /user/login	http://biznesfabrika.ru/
+RedirectMatch 301 /catalog/business/franchazing	http://biznesfabrika.ru/
+RedirectMatch 301 /extreme-siles-sites-responses	http://biznesfabrika.ru/
+RedirectMatch 301 /kak-nanyat-marketologa	http://biznesfabrika.ru/
+RedirectMatch 301 /konkurs_knig	http://biznesfabrika.ru/
+RedirectMatch 301 /kuznitsa_special_offer	http://biznesfabrika.ru/
+RedirectMatch 301 /luchshii-sposob-raspredelit-svoe	http://biznesfabrika.ru/
+RedirectMatch 301 /narugnieotkosi-box?destination=node/1283	http://biznesfabrika.ru/
+RedirectMatch 301 /otkrytie-filiala	http://biznesfabrika.ru/
+RedirectMatch 301 /seminar-zhestkie-kholodnye-zvonki	http://biznesfabrika.ru/
+RedirectMatch 301 /test-draiv-5-biznes-bez-nervov	http://biznesfabrika.ru/
+RedirectMatch 301 /user/21098/edit	http://biznesfabrika.ru/
+RedirectMatch 301 /free-hr	http://biznesfabrika.ru/
+RedirectMatch 301 /headhanter-data	http://biznesfabrika.ru/
+RedirectMatch 301 /inforoboti	http://biznesfabrika.ru/
+RedirectMatch 301 /kak-opredelit-region-dlja-filiala http://biznesfabrika.ru/
+RedirectMatch 301 /kak-otkryt-filial-4-problemy http://biznesfabrika.ru/
+RedirectMatch 301 /kak-sformirovat-stabfond-biznesa	http://biznesfabrika.ru/
+RedirectMatch 301 /monetizatsiya-biznesa	http://biznesfabrika.ru/
+RedirectMatch 301 /obuchenie-personala-kak-peredat-znaniya	http://biznesfabrika.ru/
+RedirectMatch 301 /uslugi http://biznesfabrika.ru/services
+RedirectMatch 301 /catalog/biznes.html http://biznesfabrika.ru/store
+RedirectMatch 301 /4-KPI-dlja-buhgalterii http://biznesfabrika.ru/4-kpi-dlja-buhgalterii-2
+RedirectMatch 301 /free-svoboda-v-biznese http://biznesfabrika.ru/
